@@ -1,0 +1,31 @@
+[
+  {
+    "rating" : "4.5",
+    "title" : "Low Fade",
+    "text" : "Lorem Ipsum",
+    "img" : "img/1.jpg",
+    "audio" : "1.mp3"
+  },
+    {
+    "rating" : "4.5",
+    "title" : "Tapper",
+    "text" : "Lorem Ipsum",
+    "img" : "img/2.jpg",
+    "audio" : "2.mp3"
+  },
+  
+    {
+    "rating" : "4.5",
+    "title" : "Mid Fade",
+    "text" : "Lorem Ipsum",
+    "img" : "img/3.jpg",
+    "audio" : "2.mp3"
+  },
+    {
+    "rating" : "4.5",
+    "title" : "Buzz",
+    "text" : "Lorem Ipsum",
+    "img" : "img/4.jpg",
+    "audio" : "2.mp3"
+  }
+]
